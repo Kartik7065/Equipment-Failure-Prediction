@@ -1,1 +1,1 @@
-#Eqipment Failure Prediction Using Python
+Eqipment Failure Prediction Using Python
